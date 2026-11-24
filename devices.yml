@@ -351,6 +351,9 @@ ILCE-7:
 ILCE-7C:
   arch: CXD90045
   model: 0x91030019
+ILCE-7CM2:
+  arch: CXD90057
+  model: 0x20030014
 ILCE-7M2:
   arch: CXD90014
   model: 0x51030031
